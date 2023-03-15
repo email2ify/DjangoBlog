@@ -1,1 +1,1 @@
-web: gunicorn stanapp.wsgi
+web: gunicorn PROJ_NAME.wsgi
